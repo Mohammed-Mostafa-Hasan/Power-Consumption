@@ -1,7 +1,7 @@
 ## Power Consumption
 <p>this project focus on studying power consumption in tetuan city at morocco country to reduce power consumption by explore feature influence on power consumption </p>
 
-### Goal of the project:
+### Goals of the project:
 
 * determine which higher features influence on power consumption for each zone
 * predict power consumption in the next year
